@@ -1,0 +1,7 @@
+Step 1:Install node and npm
+Step 2:Clone the repository
+Step 3:npm install
+Step 4:Install lucide-react using command: (npm install lucide-react)
+Step 5:npm run dev
+
+Now your project might be available on the localhost
